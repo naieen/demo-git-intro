@@ -10,3 +10,7 @@ hh.
 More text.
 
 ## Even more text
+
+
+## LOCAL DEVELOPMENT 
+1. Open index.html in your browser.
